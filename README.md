@@ -30,7 +30,7 @@
 1. 左上の「Import Project」をクリックします
 1. 「プロジェクト名」を入力します　例）「連打アプリ」
 1. 「インポート方法」の「URLを指定してインポート」をチェックし、下記リンクを右クリックでコピーし、貼り付けます
- * 問題用プロジェクト：__[連打ゲーム](https://github.com/natsumo/MonacaFirstApp/archive/master.zip)__
+ * 問題用プロジェクト：__[連打ゲーム](https://github.com/NIFCLOUD-mbaas/MonacaFirstApp/archive/master.zip)__
 1. 「インポート」をクリックするとインポートされたプロジェクトが作成されます
 1. 作成されたプロジェクトを「開く」をクリックして開きます
 1. プロジェクトが開き、プレビュー画面が表示されます
@@ -119,7 +119,7 @@ __【作業1-2】__プレビュー画面あるいは[デバッガー](https://ja
 
 ▼答えはこちら▼
 
-[__【問題１】解答__](https://github.com/natsumo/MonacaFirstApp/blob/AnswerProject/Answer1.md)
+[__【問題１】解答__](https://github.com/NIFCLOUD-mbaas/MonacaFirstApp/blob/AnswerProject/Answer1.md)
 
 ## __【問題２】__：ランキングを表示しよう！
 `js/Ranking.js`を開きます。下図の`checkRanking`メソッドを編集し、データストアの`GameScore`クラスに保存した`name`と`score`のデータを`score`の降順（スコアの高い順）で検索・取得する処理をコーディングしてください
@@ -185,7 +185,7 @@ __【作業2-4】__プレビュー画面あるいは[デバッガー](https://ja
 
 ▼答えはこちら▼
 
-[__【問題２】解答__](https://github.com/natsumo/MonacaFirstApp/blob/AnswerProject/Answer2.md)
+[__【問題２】解答__](https://github.com/NIFCLOUD-mbaas/MonacaFirstApp/blob/AnswerProject/Answer2.md)
 
 ## 参考
 
@@ -193,6 +193,6 @@ __【作業2-4】__プレビュー画面あるいは[デバッガー](https://ja
 
 ▼完成版プロジェクト▼
 
-[__「【完成版】連打ゲーム」__](https://github.com/natsumo/MonacaFirstApp/archive/AnswerProject.zip)
+[__「【完成版】連打ゲーム」__](https://github.com/NIFCLOUD-mbaas/MonacaFirstApp/archive/AnswerProject.zip)
 
 * APIキーを設定してご利用ください
