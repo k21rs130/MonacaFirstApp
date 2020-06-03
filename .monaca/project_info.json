@@ -1,17 +1,7 @@
 {
-    "plugins": [
-        "mobi.monaca.plugins.Monaca@3.1.0",
-        "cordova-custom-config@2.0.3"
-    ],
     "framework_version": "3.5",
-    "xcode_version": "7",
-    "cordova_version": "6.2",
-    "plugin_settings": [],
-    "external_plugins": [
-        "cordova-plugin-whitelist@1.2.2",
-        "cordova-plugin-splashscreen@3.2.2",
-        "cordova-plugin-dialogs@1.2.1"
-    ],
+    "xcode_version": "11.3",
+    "cordova_version": "9.0",
     "title-ja": "MonacaFirstApp",
     "title-en": "",
     "description-ja": "【Monaca問題集】『オンラインランキング機能を作ってみよう！「連打ゲーム」』",
@@ -21,5 +11,6 @@
         "android",
         "ios"
     ],
-    "name": "generated-1467348192-57722d9afd17346325799376"
+    "name": "generated-1467348192-57722d9afd17346325799376",
+    "cordova_ios_platform": "5.1.1"
 }
