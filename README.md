@@ -1,5 +1,8 @@
 # 【Monaca問題集】『オンラインランキング機能を作ってみよう！「連打ゲーム」』
 
+* 本サンプルは不具合がある場合、issue等から報告いただくようにお願いいたします
+* 作成日：2016/6（更新日：2020/6）
+
 ![RendaGame](/readme-img/RendaGame.png)
 
 * [Monacaデバッガー](https://ja.monaca.io/debugger.html)使用時(iPhone6)の画面例です
@@ -10,6 +13,11 @@
  * [ニフクラ mobile backend](https://mbaas.nifcloud.com/)の利用登録（無料）が必要です。
 * 問題用プロジェクトにはオンラインランキング機能が実装されていない状態の「連打ゲーム」です
  * 既に実装済みの[ニフクラ mobile backend](https://mbaas.nifcloud.com/)を利用するための準備（SDK導入など）方法の詳細は[こちら](https://mbaas.nifcloud.com/doc/current/introduction/quickstart_ios.html)をご覧ください。
+
+# 動作環境
+
+Cordova 9.0, Javascript SDK ver 3.1.1導入済み
+Monacaデバッグアプリ
 
 ## 問題について
 
