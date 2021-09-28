@@ -16,8 +16,8 @@
 
 # 動作環境
 
-Cordova 9.0, Javascript SDK ver 3.1.1導入済み
-Monacaデバッグアプリ
+* Cordova 9.0, Javascript SDK ver 3.1.1導入済み
+* Monacaデバッグアプリ
 
 ## 問題について
 
