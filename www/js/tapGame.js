@@ -55,8 +55,23 @@ function saveScore(name, score) {
             console.log("保存に失敗しました。エラー:" + error);
         });
 
-
-
+    // **********【問題２】ランキングを表示しよう！**********
+    // 保存先クラスを作成
+    var highScore = ncmb.DataStore("GameScore");
+    // scoreの降順でデータ5件を取得するように設定する
+    highScore.order("score", true)
+        .limit(5)
+        .fetchAll()
+        .then(function (results) {
+            // 検索に成功した場合の処理
+            console.log("検索に成功しました。");
+            // テーブルにデータをセット
+            setData(results);
+        })
+        .catch(function (error) {
+            // 検索に失敗した場合の処理
+            console.log("検索に失敗しました。エラー:" + error);
+        });
 
 
 
